@@ -1,0 +1,451 @@
+1
+00:00:06,520 --> 00:00:08,600
+So you ask me if there's gonna be a revolution?
+
+2
+00:00:12,880 --> 00:00:15,460
+I think there's already a revolution happening
+
+3
+00:00:16,560 --> 00:00:17,880
+We're seeing it everywhere
+
+4
+00:00:18,420 --> 00:00:21,460
+Honestly, I feel like blockchain is almost slipping through the cracks
+
+5
+00:00:21,700 --> 00:00:24,720
+They don't even see that we're a threat yet
+
+6
+00:00:24,920 --> 00:00:29,960
+If you have a decentralized entity that people can opt-in to
+
+7
+00:00:30,000 --> 00:00:32,180
+That starts performing services
+
+8
+00:00:32,180 --> 00:00:34,720
+that the government used to provide
+
+9
+00:00:34,880 --> 00:00:37,440
+Then what do you need these guys for
+
+10
+00:00:38,640 --> 00:00:40,820
+Bitcoin is the first real experiment
+
+11
+00:00:40,900 --> 00:00:41,840
+in DAOs
+
+12
+00:00:41,960 --> 00:00:43,740
+It's the first DAO that ever existed
+
+13
+00:00:43,920 --> 00:00:45,100
+What's a DAO?
+
+14
+00:00:45,440 --> 00:00:48,440
+I mean, Decentralized Autonomous Organization is what it stands for
+
+15
+00:00:48,760 --> 00:00:51,640
+Basically a decentralized autonomous organization is an organization
+
+16
+00:00:51,760 --> 00:00:55,620
+in which you can interact with it without having to go through an intermediary
+
+17
+00:00:55,780 --> 00:00:57,220
+I think that it's very important
+
+18
+00:00:57,300 --> 00:01:00,480
+for us to have tools that are really censorship-resistant
+
+19
+00:01:00,860 --> 00:01:05,220
+We have evolved so much as a society
+
+20
+00:01:05,520 --> 00:01:07,520
+but yet our governance structures
+
+21
+00:01:07,520 --> 00:01:09,440
+are hundreds of years old
+
+22
+00:01:10,400 --> 00:01:13,460
+We had a long period of monarchies
+
+23
+00:01:13,860 --> 00:01:16,420
+And that was a very centralized form of governance
+
+24
+00:01:17,520 --> 00:01:20,900
+And we had a great evolution with democracies
+
+25
+00:01:20,940 --> 00:01:22,840
+spreading that power a bit more
+
+26
+00:01:23,460 --> 00:01:24,460
+Now
+
+27
+00:01:24,640 --> 00:01:27,320
+I would argue that corporations are superseding nation-states
+
+28
+00:01:27,320 --> 00:01:28,840
+in terms of their power
+
+29
+00:01:30,800 --> 00:01:33,920
+You're a digital serf, right now, living on Facebook
+
+30
+00:01:34,020 --> 00:01:35,680
+You work the land
+
+31
+00:01:35,680 --> 00:01:37,580
+You work the feed
+
+32
+00:01:37,620 --> 00:01:39,780
+And they take all the benefit, they take all of the value
+
+33
+00:01:40,360 --> 00:01:42,680
+It's a free service, where you are the product
+
+34
+00:01:43,480 --> 00:01:46,880
+Systems tend to perpetuate themselves
+
+35
+00:01:46,980 --> 00:01:50,580
+In other words, capitalism tends to do what's best for the market
+
+36
+00:01:50,700 --> 00:01:54,180
+Maybe not what is best for all the individuals who comprise the market
+
+37
+00:01:54,180 --> 00:01:56,380
+Silicon Valley, they tend to fund projects
+
+38
+00:01:56,440 --> 00:01:59,420
+or companies, that are trying to solve very much first world problems
+
+39
+00:01:59,860 --> 00:02:01,620
+How do you get your food 5 minutes quicker
+
+40
+00:02:01,680 --> 00:02:03,900
+How do you get your Uber 2 minutes faster
+
+41
+00:02:03,920 --> 00:02:07,400
+Whereas with blockchain technology, we have the ability to fund
+
+42
+00:02:07,520 --> 00:02:09,600
+initiatives that will produce true social good
+
+43
+00:02:09,660 --> 00:02:12,400
+and provide value to the most undervalued parts of humanity
+
+44
+00:02:12,500 --> 00:02:15,140
+This is the most egalitarian way
+
+45
+00:02:15,240 --> 00:02:17,440
+to construct systems
+
+46
+00:02:17,500 --> 00:02:21,260
+The culture is moving faster than the nation-state can handle
+
+47
+00:02:21,700 --> 00:02:24,140
+We can have that same personal feeling
+
+48
+00:02:24,240 --> 00:02:27,200
+that I have with my neighbour, with the people in a chat room
+
+49
+00:02:28,100 --> 00:02:30,480
+Traditional government institutions
+
+50
+00:02:30,520 --> 00:02:32,600
+take tremendously long time to fail
+
+51
+00:02:32,640 --> 00:02:34,780
+and when they do fail, there's usually violence
+
+52
+00:02:34,780 --> 00:02:36,420
+so we try not to let them fail
+
+53
+00:02:36,620 --> 00:02:39,940
+But today, we are in the first time in history
+
+54
+00:02:40,060 --> 00:02:42,420
+that we can actually try out new governance models
+
+55
+00:02:42,460 --> 00:02:44,560
+without the need of people getting killed
+
+56
+00:02:44,560 --> 00:02:47,960
+because we can try those governance models from the comfort of our sofa
+
+57
+00:02:48,140 --> 00:02:50,040
+In the mathematical realm
+
+58
+00:02:50,080 --> 00:02:52,420
+you can not threaten an algorithm with a gun
+
+59
+00:02:52,480 --> 00:02:55,600
+Because it's unstoppable, it's open source code
+
+60
+00:02:55,680 --> 00:02:58,780
+The cat's out of the bag right away when someone has the idea
+
+61
+00:02:58,820 --> 00:03:01,880
+Anything closed source is like saying "I'm a scientist and I've proved something
+
+62
+00:03:02,300 --> 00:03:04,100
+but I'm not gonna show you how I've proved it"
+
+63
+00:03:04,260 --> 00:03:06,060
+It's just free, you download it from the Internet
+
+64
+00:03:06,140 --> 00:03:08,080
+it's open source, you wanna enhance it, you do
+
+65
+00:03:08,080 --> 00:03:09,380
+and if you don't like it, you can just fork it
+
+66
+00:03:09,640 --> 00:03:13,700
+And if we have means by which groups can connect to each other
+
+67
+00:03:13,820 --> 00:03:16,980
+to form larger governance structures, that govern the entire whole
+
+68
+00:03:17,600 --> 00:03:20,660
+Then we have something that kind of is resembling a fractal structure
+
+69
+00:03:20,960 --> 00:03:23,960
+If you think about kind of other examples of super-organisms
+
+70
+00:03:23,960 --> 00:03:26,580
+you have like beehives and ant colonies
+
+71
+00:03:26,660 --> 00:03:28,580
+or even just the human body itself
+
+72
+00:03:28,600 --> 00:03:31,440
+it's a bunch of cells and micro-organisms
+
+73
+00:03:31,440 --> 00:03:33,620
+that are all working together in a single
+
+74
+00:03:33,620 --> 00:03:35,220
+like human body is their environment
+
+75
+00:03:35,380 --> 00:03:38,060
+But now what we have is proliferating with crypto networks
+
+76
+00:03:38,120 --> 00:03:42,980
+is actually these supranational protocols in which human activity can be governed
+
+77
+00:03:43,000 --> 00:03:46,840
+on this international basis, without nation-states, without corporations
+
+78
+00:03:47,120 --> 00:03:49,820
+So what it allows, is for people to come together from wherever
+
+79
+00:03:50,300 --> 00:03:52,900
+And they can interact together, they can make decisions
+
+80
+00:03:52,900 --> 00:03:56,540
+they can share in the common enterprise, and then they can all benefit together
+
+81
+00:03:56,700 --> 00:04:00,220
+Governance ends up being a really key part of making that work
+
+82
+00:04:00,740 --> 00:04:03,440
+And if view blockchains from a evolutionary standpoint
+
+83
+00:04:04,200 --> 00:04:07,180
+This may be the most critical feature one could imagine
+
+84
+00:04:07,180 --> 00:04:09,540
+Any organization of any kind
+
+85
+00:04:09,580 --> 00:04:14,340
+From your Mom-and-pop shop, to your decentralized autonomous organization
+
+86
+00:04:14,560 --> 00:04:18,020
+can create an entity on Aragons Network
+
+87
+00:04:18,160 --> 00:04:20,340
+and use it for all kinds of things
+
+88
+00:04:20,400 --> 00:04:24,800
+like their cap table, like payroll, to show you where their finances are going
+
+89
+00:04:24,860 --> 00:04:26,500
+for voting, for upgrades
+
+90
+00:04:26,660 --> 00:04:28,480
+to the way in which that organization works
+
+91
+00:04:28,760 --> 00:04:32,540
+Aragon is a tool that I think will spawn many different early attempts
+
+92
+00:04:32,600 --> 00:04:36,240
+at decentralized governance structures, which if implemented well, will be powerful
+
+93
+00:04:36,520 --> 00:04:38,440
+It's actually two components
+
+94
+00:04:38,660 --> 00:04:40,060
+So the first one is
+
+95
+00:04:40,500 --> 00:04:42,160
+The Aragon platform
+
+96
+00:04:42,180 --> 00:04:44,780
+to build and govern organizations
+
+97
+00:04:44,820 --> 00:04:46,700
+societies and protocols
+
+98
+00:04:46,880 --> 00:04:51,820
+And the other part is the first digital jurisdiction that has ever existed
+
+99
+00:04:52,320 --> 00:04:53,720
+The Aragon Network
+
+100
+00:04:58,740 --> 00:05:00,660
+That doesn't happen very often in the real world
+
+101
+00:05:00,720 --> 00:05:03,460
+It's rare that you get to set up a new central bank or a new government
+
+102
+00:05:03,480 --> 00:05:06,400
+So I think we're gonna be in sort of this Cambrian explosion
+
+103
+00:05:06,780 --> 00:05:08,920
+of experimentation on both of those fronts
+
+104
+00:05:08,920 --> 00:05:12,080
+But with any huge transition that happens in human history
+
+105
+00:05:12,160 --> 00:05:15,880
+they are very insistent in making us believe that we need them
+
+106
+00:05:16,080 --> 00:05:17,940
+So the incumbents are trying to use their
+
+107
+00:05:18,100 --> 00:05:19,500
+marketing power
+
+108
+00:05:19,500 --> 00:05:21,000
+their communication power
+
+109
+00:05:21,060 --> 00:05:22,040
+their surveillance power
+
+110
+00:05:22,040 --> 00:05:24,060
+to convince people that they still need them
+
+111
+00:05:24,720 --> 00:05:27,720
+But the market and the people will eventually figure out
+
+112
+00:05:27,760 --> 00:05:29,180
+that they don't
+
+113
+00:05:36,100 --> 00:05:37,880
+And that will be the end of establishment
